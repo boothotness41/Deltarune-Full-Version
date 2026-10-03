@@ -242,4 +242,4 @@ This repository serves as the official landing page for DELTARUNE. The software 
 **Get the most recent version of DELTARUNE today!**
 
 ---
-**Last updated:** 2026-10-02 23:26:06 UTC
+**Last updated:** 2026-10-03 03:00:47 UTC
